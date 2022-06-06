@@ -119,9 +119,6 @@ MIT
 @angular/router
 MIT
 
-@angular/service-worker
-MIT
-
 @ckeditor/ckeditor5-angular
 GPL-2.0-or-later
 Software License Agreement
@@ -295,6 +292,9 @@ to represent the company, product, or service to which they refer.**
 
 
 @ngx-translate/core
+MIT
+
+@ngx-translate/http-loader
 MIT
 
 chart.js
